@@ -5,5 +5,7 @@ import org.testng.annotations.Test;
 public class OnlyTest {
   @Test
   public void f() {
+   System.out.println("enjoyyy"); 
+   
   }
 }
